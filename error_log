@@ -1,0 +1,1 @@
+[18-Mar-2023 18:05:31 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Organization_model::get_status() in /home4/loopdarx/public_html/ppad/application/models/admin/Organization_model.php on line 288
